@@ -1,0 +1,24 @@
+Explicacion proyecto:
+La pagina web que hice se trada de una pagina acerca de videojuegos de consolas
+Por el momento solo esta disponible los juegos de PlayStation 4
+
+
+Para crear esta pagina descargue un Template que agrega el diseño (CSS)
+de dicha pagina, junto con imagenes (IMG), JS y como es template ya viene incluido el bootstrap 4
+Pero yo le di mi diseño, descargue y meti las imagenes que aparecen en la pagina
+quite lo que no me servia, puse cosas que necesitaba.
+
+El archivo index.html contiene el diseño de la pagina principal, donde se muestran
+las 3 imagenes de las consolas, con botones para ver sus juegos, debajo contiene
+una seccion con una tabla de lo mejor de los ultimos 2 años
+contando con un top 3, y dando click al nombre de los videojuegos
+los redirigira hacia su sinopsis.
+
+El archivo playstation.html contiene los juegos mas populares del playstation 4
+cada imagen del videojuego puede reproducir su trailer sin tener que ir a youtube,
+debajo de la imagen tiene un boton de "Sinopsis" donde se redirigira hacia otra ventana
+
+El archivo sinopsisnombrejuego.html Contiene una pequeña descripcion de que trata el juego,
+como es su campaña o sus personajes. Y tambien contiene mas imagenes acerca de dicho juego
+para poder apreciarlo mejor
+ 
